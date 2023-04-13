@@ -1,4 +1,4 @@
-[<img align="center" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="gif" height="500">](https://github.com/Nguyen-Huu-Huan)
+[<img align="center" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="gif" width="100%" height="500">](https://github.com/Nguyen-Huu-Huan)
 <h1 align="center">Hi 👋, I'm Huan</h1>
 <h3 align="center">A fullstack developer in Australia</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
