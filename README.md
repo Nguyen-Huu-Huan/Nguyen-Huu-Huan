@@ -9,7 +9,9 @@
 
 - 👨‍💻 I'm studying at **RMIT University**
 
-- 🎓 @11/2023
+- 🎓 Grad @11/2023
+
+- 💼 Previously as a **Fullstack Developer** @Pretzel Technologies
 
 - 🔎 Actively looking for **Software Engineer / Web Developer** junior & intern roles
 
