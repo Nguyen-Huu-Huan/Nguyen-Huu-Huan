@@ -3,7 +3,7 @@
 <h3 align="center">A fullstack developer in Australia</h3>
 
 [<img align="right" alt="gif" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">](https://github.com/Nguyen-Huu-Huan)
-- 🔭 I’m currently working on [<p>Social Ground<p>](https://www.socialground.me/signup) - please refer to the project link in my CV
+- 🔭 I’m currently working on [Social Ground](https://www.socialground.me/signup) - please refer to the project link in my CV
 
 - 🌱 I’m currently learning **Golang, .Net**
 
