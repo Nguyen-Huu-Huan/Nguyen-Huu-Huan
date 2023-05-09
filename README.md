@@ -17,7 +17,7 @@
 
 - 🔎 Actively looking for **Software Engineer / Web Developer** junior & intern roles
 
-- 💬 Ask me about **React, Next JS, Node JS, mongodb, java, AWS, Azure Deployment**
+- 💬 Ask me about **React, Next JS, Node JS, MongoDB, MySQL, Java, AWS, Azure Deployment**
 
 - 📫 **nhhuan0308@gmail.com**
 
